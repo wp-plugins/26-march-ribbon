@@ -15,11 +15,11 @@ For more update GO [Boxtwobox](http://facebook.com/boxtwobox)
 
 **Creadits :**
 
-*Graphic : [saif Rasel ] (https://www.facebook.com/RSL13)
+* Graphic : [saif Rasel ] (https://www.facebook.com/RSL13)
 
-*Inspired By : [Tasfiq Hossain Khan]  (http://www.facebook.com/3mc33.taz)
+* Inspired By : [Tasfiq Hossain Khan]  (http://www.facebook.com/3mc33.taz)
 
-*Dedicate : [All wordpress group members](https://www.facebook.com/groups/Wordpress2Smashing/)
+* Dedicate : [All wordpress group members](https://www.facebook.com/groups/Wordpress2Smashing/)
 
 == Installation ==
 
