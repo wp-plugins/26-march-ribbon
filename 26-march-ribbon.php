@@ -8,6 +8,7 @@ License: GPLv2
 Author URI: http://boxtwobox.com
 */
 
+
 function render_26_march_ribbon() {
 	$ribbon_url = plugins_url( '26-march-ribbon.png', __FILE__ );
 	echo "<a target='_blank' class='26-march-ribbon' href='http://en.wikipedia.org/wiki/Bangladeshi_Independence_Day'>
