@@ -3,7 +3,7 @@
 Plugin Name: 26 March Ribbon
 Description: When activated, this plugin will put a  ribbon on the top right corner of your website. 
 Author: Bub Rupam JCB 
-Version: 1.0
+Version: 2.0
 License: GPLv2
 Author URI: http://boxtwobox.com
 */
